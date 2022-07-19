@@ -38,3 +38,9 @@ En esta imagen puedes ver una muestra del collage de imágenes finalizado:
 3. `app.js`
 4. `routes/image-route.js`
 5. `routes/image-route.js`
+
+## Notas
+
+## TODO
+
+-  Cargar imagenes al iniciar
