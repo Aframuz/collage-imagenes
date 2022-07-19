@@ -14,13 +14,13 @@ En el material de esta sesión encontrarás un **Apoyo Desafío - Collage de im�
 En la siguiente imagen puedes ver una muestra del formulario para la carga de imágenes al servidor:
 
 <p align="center">
-   <img src=./public/images/img01.png>
+   <img src=../assets/images/img01.png>
 </p>
 
 En esta imagen puedes ver una muestra del collage de imágenes finalizado:
 
 <p align="center">
-   <img src=./public/images/img02.png>
+   <img src=../assets/images/img02.png>
 </p>
 
 ## Requerimientos
