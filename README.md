@@ -33,11 +33,11 @@ En esta imagen puedes ver una muestra del collage de imágenes finalizado:
 
 ## Dónde Encontrar cada Requerimiento
 
-1. `app.js`
-2. `app.js`
-3. `app.js`
-4. `routes/image-route.js`
-5. `routes/image-route.js`
+1. `app.js` [link](https://github.com/Aframuz/collage-imagenes/blob/f69424cad9ce21da0cb426868c388902a517aed5/app.js#L6)
+2. `app.js` [link](https://github.com/Aframuz/collage-imagenes/blob/f69424cad9ce21da0cb426868c388902a517aed5/app.js#L28)
+3. `app.js` [link](https://github.com/Aframuz/collage-imagenes/blob/f69424cad9ce21da0cb426868c388902a517aed5/app.js#L30)
+4. `routes/image-route.js` [link](https://github.com/Aframuz/collage-imagenes/blob/f69424cad9ce21da0cb426868c388902a517aed5/routes/image-route.js#L18)
+5. `routes/image-route.js` [link](https://github.com/Aframuz/collage-imagenes/blob/f69424cad9ce21da0cb426868c388902a517aed5/routes/image-route.js#L17)
 
 ## Notas
 
